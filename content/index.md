@@ -7,7 +7,7 @@ I thank you for being here because you have given value to this website, and I a
 # What, Why?
 I feel that there is value in recording the details of life. What better to do with our evolved writing abilities? Life is brimming with transitory thoughts, knowledge, and experiences. I wish to persist some. You will find those things from my life here.
 
-[[Wellspring|"What does *Wellspring* mean?"]]
+"*[[Wellspring|What does Wellspring mean?]]*"
 # Where?
 - [[My Life's Work]] - things I'm working on
 - [[Philosophy]] - things I think
