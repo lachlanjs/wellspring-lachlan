@@ -1,6 +1,6 @@
 ---
 description: Thoughts on free-will
-draft: true
+draft: false
 tags:
   - "#philosophy"
 date: 2024-06-11
