@@ -6,6 +6,8 @@ This is my personal website. I hope that if you are here then there is something
 I thank you for being here because you have given value to this website, and I appreciate that. I hope I repay you. I wish you the best.
 # What, Why?
 I feel that there is value in recording the details of life. What better to do with our evolved writing abilities? Life is brimming with transitory thoughts, knowledge, and experiences. I wish to persist some. You will find those things from my life here.
+
+[[Wellspring|"What does *Wellspring* mean?"]]
 # Where?
 - [[My Life's Work]] - things I'm working on
 - [[Philosophy]] - things I think
