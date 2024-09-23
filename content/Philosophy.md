@@ -1,9 +1,9 @@
 ---
 description: Things I think
 draft: false
-tags:
-  - "#philosophy"
+tags: []
 date: ""
 ---
 - [[Wellspring]]
 - [[UIs vs Respect]]
+- [[Love is no Axiom]]
