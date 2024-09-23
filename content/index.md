@@ -7,9 +7,9 @@ Pages which yield 404 are in-progress.
 
 ---
 # Where?
-- [[Work]]
 - [[Philosophy]]
-- [[Knowledge|Knowledge (alleged)]]
+- [[Work]]
+- [[Learning]]
 - [[Journals]]
 ---
 # How?
