@@ -3,6 +3,7 @@ title: Welcome
 ---
 # What?
 This is my personal website. Thanks for visiting! I don't know why you're here but I like it and I hope you find something useful...?
+Pages which yield 404 are in-progress.
 
 ---
 # Where?
