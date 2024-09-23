@@ -1,10 +1,9 @@
 ---
-description: Homepage for Philosophy
+description: Things I think
 draft: false
 tags:
   - "#philosophy"
-date: 2024-06-11
+date: ""
 ---
-
-[[Attentionism]]
-[[Wellspring]]
+- [[Wellspring]]
+- [[UIs vs Respect]]

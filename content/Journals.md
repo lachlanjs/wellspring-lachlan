@@ -1,8 +1,7 @@
 ---
-description: A collection of "more personal" Journal entries
+description: Writing without concern for a unifying narrative
 draft: false
 tags:
   - "#journal"
 date: ""
 ---
-# 2024

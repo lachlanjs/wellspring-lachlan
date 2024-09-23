@@ -1,10 +1,7 @@
 ---
 description: The things I (allegedly) know
-draft: true
+draft: false
 tags:
   - "#knowledge"
 date: ""
 ---
-# Computing
-
-# Math

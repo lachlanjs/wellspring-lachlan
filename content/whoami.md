@@ -1,13 +1,13 @@
 ---
-description: Self description
+description: Me
 draft: false
 tags: 
 date: ""
 ---
-Okay, this feels a bit self-aggrandising - but I started laying out the index page with "why, where, how, what" so "who" was missing. I do not want to be self-aggrandising. I am not special to me - that is reserved for other people.
+I am a 22 year old guy living in Canberra, originally from Tasmania. I am currently dividing my time between studying, working, and figuring out life - like most 22 year olds!
 
-Really, if this website is doing anything at all, it will tell you a bit about me. So if you really want to know about me then you can go have a look around.
+As far as my career is concerned I am broadly interested in AI. I'm kind of bothered by how much of a zeitgeist it has gotten to being in recent years. I don't think that Zeitgeists, or "trends", necessarily attract bad ideas, but I do think that they attract ideas which originate for bad reasons. I think we are all aware of this. The fight should be not only to contribute as much as possible, but to keep the sources of our contributions, of our original thoughts, pure in their well-meaning and honesty.
 
-Otherwise, I'm going to put some journals in, and that you will find [[Journals|here and only here]].
+I'm at my best motivated by doing original things and no less than what I believe in. I'm at my worst when I compromise on that.
 
-*I'll get to putting more details about me in later*
+I feel that there is value in recording the details of life. What better to do with our evolved writing abilities? Life is brimming with transitory thoughts, knowledge, and experiences. I wish to persist some in the spare time that might be spent in resignation. I have done this privately for some time. It occurs to me again and again that I might want to share some of it.
