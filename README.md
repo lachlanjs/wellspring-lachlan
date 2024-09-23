@@ -1,5 +1,5 @@
 # Personal Website
-This is the repository of my personal website: 
+This is the repository of my [**personal website**](https://lachlanjs.github.io/wellspring-lachlan/).
 
 My blog is made possible by (the following is from the Quartz repository):
 # Quartz v4
