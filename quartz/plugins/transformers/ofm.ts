@@ -254,7 +254,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                         },
                       },
                     }
-                  } else if ([".mp4", ".webm", ".ogv", ".mov", ".mkv"].includes(ext)) {
+                  } else if ([".mp4", ".ogv", ".mov", ".mkv"].includes(ext)) {
                     return {
                       type: "html",
                       value: `<video src="${url}" controls></video>`,
