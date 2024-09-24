@@ -1,8 +1,11 @@
 ---
-description: Me
+description: 
 draft: false
 tags: 
 date: ""
+---
+*About*
+
 ---
 I am a 22 year old guy living in Canberra, originally from Tasmania. I am currently dividing my time between studying, working, and figuring out life - like most 22 year olds!
 

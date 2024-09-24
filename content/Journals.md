@@ -1,6 +1,10 @@
 ---
-description: Writing without concern for a unifying narrative
+description: 
 draft: false
-tags: []
+tags: 
 date: ""
 ---
+*Writing without concern for a unifying narrative*
+
+---
+[[2024-09-24]]

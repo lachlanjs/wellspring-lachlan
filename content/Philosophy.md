@@ -1,7 +1,10 @@
 ---
-description: Things I think
+description: 
 draft: false
-tags: []
+tags: 
 date: ""
+---
+*Things I think*
+
 ---
 - [[Wellspring]]

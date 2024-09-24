@@ -1,9 +1,12 @@
 ---
-description: Consciousness and the meaning of life's experience through it
+description: 
 draft: false
 tags:
   - "#philosophy"
 date: 2024-09-23
+---
+*Consciousness and the meaning of life's experience through it*
+
 ---
 I think a wellspring is a good metaphor for human consciousness. 
 
