@@ -21,7 +21,7 @@ You get tunnel vision, which serves you right for entering a tunnel. Tunnels can
 
 Have you ever wondered what you would do if you were in a road tunnel and a segment of it collapsed? If there was a fiery car crash, or a partial flood?
 
-![[Pasted image 20240929082033.png|400]]
+![[Pasted image 20240929082033.png]]
 
 The answer is yes, they do. It's a legal thing. 
 
