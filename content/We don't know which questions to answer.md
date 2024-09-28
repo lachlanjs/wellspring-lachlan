@@ -13,7 +13,8 @@ date: ""
 | ------------ | ------------------------------------ | ---------------------------- |
 | Answerable   | Worth it                             | Find a ⬅️                    |
 | Unanswerable | Actually ➡️<br>but you think it's ⬆️ | Find the nearest escape exit |
-At times I have lost myself in (probably) unanswerable questions. Short-term, maybe good. Long-term, definitely bad. 
+
+At times, I have lost myself in (probably) unanswerable questions. Short-term, maybe good. Long-term, definitely bad. 
 
 The struggle makes it feel worthwhile; like it's going somewhere: 
 "Just you wait and see...".
