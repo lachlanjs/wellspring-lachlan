@@ -9,3 +9,4 @@ date: ""
 
 ---
 [[FedREDEmbed]]
+[[Holoviz Design Patterns]]

@@ -7,4 +7,4 @@ date: ""
 *Things I am learning or allegedly know*
 
 ---
-
+[[Holoviz Design Patterns]]
