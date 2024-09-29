@@ -8,5 +8,5 @@ date: ""
 *Things I am working on*
 
 ---
-[[FedREDEmbed]]
-[[Holoviz Design Patterns]]
+- [[FedREDEmbed]]
+- [[Holoviz Design Patterns]]

@@ -24,12 +24,12 @@ For Holoviz, there is a considerable lack of larger-scale example applications. 
 [^2]: As of the state of the ecosystem at the release of Holoviz Panel 1.5
 
 ## Scalable design patterns for Holoviz Panel applications
-[[Holoviz Design Patterns - Activities]]
-[[Holoviz Design Patterns - Param]]
-[[Holoviz Design Patterns - Functionception]]
-[[Holoviz Design Patterns - Float Panels]]
-[[Holoviz Design Patterns - Tabs]]
-[[Holoviz Design Patterns - Holoviews Plotting]]
-[[Holoviz Design Patterns - Datashader]]
-[[Holoviz Design Patterns - Miscellaneous]]
+- [[Holoviz Design Patterns - Activities]]
+- [[Holoviz Design Patterns - Param]]
+- [[Holoviz Design Patterns - Functionception]]
+- [[Holoviz Design Patterns - Float Panels]]
+- [[Holoviz Design Patterns - Tabs]]
+- [[Holoviz Design Patterns - Holoviews Plotting]]
+- [[Holoviz Design Patterns - Datashader]]
+- [[Holoviz Design Patterns - Miscellaneous]]
 
