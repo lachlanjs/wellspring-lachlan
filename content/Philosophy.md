@@ -4,7 +4,7 @@ draft: false
 tags: 
 date: ""
 ---
-*Things I think*
+*Things I think (wanky prose)*
 
 ---
 - [[Wellspring]]
