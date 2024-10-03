@@ -2,7 +2,7 @@
 description: 
 draft: false
 tags: 
-date: ""
+date: 2024-10-03
 ---
 *running as a metaphor*
 
