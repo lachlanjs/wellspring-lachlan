@@ -4,7 +4,9 @@ draft: false
 tags: 
 date: ""
 ---
-*Things I think (wanky prose)*
+*Things I think, wanky prose, stuff I just don't want to keep in my head*
+
+There's going to be a lot of embarrassing content in here.
 
 ---
 - [[Wellspring]]
