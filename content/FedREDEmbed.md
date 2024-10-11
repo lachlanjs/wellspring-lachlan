@@ -8,3 +8,4 @@ date: ""
 
 ---
 [[FedREDEmbed - Introduction]]
+[[FedREDEmbed - Embedding and Aligning Client Data]]
